@@ -1,0 +1,4 @@
+../Custom/Src/dispatcher.c:9:6:button_handler	2
+../Custom/Src/dispatcher.c:20:6:temperature_handler	1
+../Custom/Src/dispatcher.c:28:6:voltage_handler	1
+../Custom/Src/dispatcher.c:33:6:dispatch_event	2

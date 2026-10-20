@@ -1,0 +1,4 @@
+../Custom/Src/finite_state_machine.c:5:6:display_all_off	8	static
+../Custom/Src/finite_state_machine.c:10:6:display_led1_on	8	static
+../Custom/Src/finite_state_machine.c:15:6:display_led2_on	8	static
+../Custom/Src/finite_state_machine.c:20:6:display_all_on	8	static

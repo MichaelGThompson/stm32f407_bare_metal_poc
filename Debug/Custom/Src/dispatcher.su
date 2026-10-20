@@ -1,0 +1,4 @@
+../Custom/Src/dispatcher.c:9:6:button_handler	24	static
+../Custom/Src/dispatcher.c:20:6:temperature_handler	16	static
+../Custom/Src/dispatcher.c:28:6:voltage_handler	24	static
+../Custom/Src/dispatcher.c:33:6:dispatch_event	16	static
