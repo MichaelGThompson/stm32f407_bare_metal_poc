@@ -8,4 +8,9 @@ This application has two producers (a potentiometer-controlled voltage to be con
 
 
 
+https://github.com/user-attachments/assets/a7469d52-3ede-48bd-ac71-3242aea4c4c2
+
+<img width="3024" height="4032" alt="IMG_5869" src="https://github.com/user-attachments/assets/0321a507-20e2-4cfb-a150-d205a0823fdc" />
+<img width="3024" height="4032" alt="IMG_5870" src="https://github.com/user-attachments/assets/4f071056-7c21-4aea-980a-afd5d0a10a7d" />
+
 
